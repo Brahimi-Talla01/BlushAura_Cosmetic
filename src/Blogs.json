@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "pere":"Tips & Procedure To Apply Luxury Beauty Cosmetic Cream",
+        "title":"Narural Cleansers",
+        "image":"/Images/blog-1.webp",
+        "author":"By Hieu Bui",
+        "date":"Jan 10, 2025"
+    },
+    {
+        "id":2,
+        "pere":"The Best Way To Select Good High-End Cosmetic Product",
+        "title":"Cosmetics",
+        "image":"/Images/blog-2.webp",
+        "author":"By Hieu Bui",
+        "date":"Jan 11, 2025"
+    },
+    {
+        "id":3,
+        "pere":"Lightweight Makeup To Enhance Your Natural Beauty",
+        "title":"Make Up",
+        "image":"/Images/blog-3.webp",
+        "author":"By Hieu Bui",
+        "date":"Jan 12, 2025"
+    },
+    {
+        "id":4,
+        "pere":"Herbal Ingredients And Their Role In Beauty Creams",
+        "title":"Natural Cleansers",
+        "image":"/Images/blog-4.webp",
+        "author":"By Hieu Bui",
+        "date":"Jan 13, 2025"
+    },
+    {
+        "id":5,
+        "pere":"All Essential Nutrients Your Skin Requires At Night",
+        "title":"Natural Cleansers",
+        "image":"/Images/blog-5.webp",
+        "author":"By Hieu Bui",
+        "date":"Jan 14, 2025"
+    },
+    {
+        "id":6,
+        "pere":"How To Find The Best Shape For Your Face",
+        "title":"Make Up",
+        "image":"/Images/blog-6.webp",
+        "author":"By Hieu Bui",
+        "date":"Jan 15, 2025"
+    },
+    {
+        "id":7,
+        "pere":"Perfect Way To Find Your Lip Combo For Everyday Lip Makeup",
+        "title":"Natural Cleansers",
+        "image":"/Images/blog-7.webp",
+        "author":"By Hieu Bui",
+        "date":"Jan 16, 2025"
+    },
+    {
+        "id":8,
+        "pere":"Morning beauty routine: our main rules",
+        "title":"Organic",
+        "image":"/Images/blog-8.webp",
+        "author":"By Hieu Bui",
+        "date":"Jan 17, 2025"
+    },
+    {
+        "id":9,
+        "pere":"Some beauty secrets from our editor in chief",
+        "title":"Make Up",
+        "image":"/Images/blog-9.webp",
+        "author":"By Hieu Bui",
+        "date":"Jan 18, 2025"
+    },
+    {
+        "id":10,
+        "pere":"Easy affordable make up look",
+        "title":"Cosmetics",
+        "image":"/Images/blog-10.webp",
+        "author":"By Hieu Bui",
+        "date":"Jan 19, 2025"
+    },
+    {
+        "id":11,
+        "pere":"When The Eye Makes A Statement, The Lips Should",
+        "title":"Narural Cleansers",
+        "image":"/Images/blog-11.webp",
+        "author":"By Hieu Bui",
+        "date":"Jan 20, 2025"
+    },
+    {
+        "id":12,
+        "pere":"I Believe That All Women Are Pretty Without Makeup",
+        "title":"Make Up",
+        "image":"/Images/blog-12.webp",
+        "author":"By Hieu Bui",
+        "date":"Jan 21, 2025"
+    }
+]
