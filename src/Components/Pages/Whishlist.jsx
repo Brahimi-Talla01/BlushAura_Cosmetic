@@ -52,7 +52,7 @@ const Whishlist = () => {
 
 
     return (
-        <div>
+        <div className='to'>
             <ol className="section-banner py-3 position-relative">
                 <li className="position-relative"><Link to='/'>Home</Link></li>
                 <li className="position-relative active"><a href="#" className='ps-5'>Wishlist</a></li>

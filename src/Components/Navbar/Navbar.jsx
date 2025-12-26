@@ -55,8 +55,8 @@ const Navbar = () => {
   return (
     <>
       {/* Navbar */}
-      <div className="nav w-100 fixed-top bg-white shadow-sm">
-            <nav className="navbar navbar-expand-lg py-3 justify-content-between align-items-center w-100 nav-wrapper">
+      <nav className="navbar navbar-expand-lg fixed-top bg-white shadow-sm py-3">
+            <div className="container nav">
                 {/* Toggle Button */}
                 <button 
                     className='navbar-toggler'
@@ -168,8 +168,8 @@ const Navbar = () => {
 
                     </ul>
                 </div>
-            </nav>
-      </div>
+            </div>
+      </nav>
 
       {/* Sign-up Modal */}
       <div className="modal fade" id='signupModal' tabIndex='-1' aria-labelledby='signupModalLabel' aria-hidden='true'>
