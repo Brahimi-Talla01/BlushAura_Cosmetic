@@ -12,6 +12,8 @@ import Shop from './Components/Pages/Shop';
 import Stores from './Components/Pages/Stores';
 import Blog from './Components/Pages/Blog';
 import Contact from './Components/Pages/Contact';
+import "bootstrap/dist/css/bootstrap.min.css";
+
 
 function App() {
 
